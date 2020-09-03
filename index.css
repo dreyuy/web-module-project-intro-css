@@ -46,3 +46,15 @@ table {
     width: 800px;
     margin: 0 auto;
 }
+.container header nav a {
+	margin: 0 10px;
+	border: 0px;
+	padding: 20px;
+	display: inline-block;
+	border-radius: 50px;
+	text-align: center;
+}
+
+.Yosemite-Image {
+	border-radius: 50%;
+}
